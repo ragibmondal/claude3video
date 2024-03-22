@@ -13,7 +13,7 @@ htmlcov/
 .tox/
 .nox/
 .coverage
-.coverage.*
+.coverage.
 .cache
 nosetests.xml
 coverage.xml
@@ -36,5 +36,5 @@ venv/
 pyproject.toml
 requirements-dev.lock
 requirements.lock
-resources/*
+resources/
 !resources/.gitkeep
