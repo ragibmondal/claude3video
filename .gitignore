@@ -1,12 +1,12 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
-*.py[cod]
-*$py.class
+.py[cod]
+$py.class
 
 # Distribution / packaging
 dist/
 build/
-*.egg-info/
+.egg-info/
 
 # Unit test / coverage reports
 htmlcov/
@@ -17,8 +17,8 @@ htmlcov/
 .cache
 nosetests.xml
 coverage.xml
-*.cover
-*.py,cover
+.cover
+.py,cover
 
 # Environments
 .env
